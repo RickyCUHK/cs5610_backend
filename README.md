@@ -4,8 +4,7 @@ This service is currently hosted at https://cs5610-backend-32p7.onrender.com/
 
 ## About
 
-It is designed to replicate a real-world back-end service for a social network similar to Reddit. This API provides full CRUD (Create, Read, Update, Delete) operations on articles, comments, users, and topics. It supports core features expected in a real-world, RESTful platform, such as parametric endpoints and query parameters.
-
+This API is built to emulate a real-world backend service for a social network, similar to Reddit. It offers full CRUD (Create, Read, Update, Delete) functionality for articles, comments, users, and topics, while supporting essential features of a RESTful platform, including parametric endpoints and query parameters.
 ## Minimum Versions
 
 To ensure proper functionality of the API, please verify that you have the following minimum versions installed:
