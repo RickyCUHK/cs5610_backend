@@ -1,5 +1,5 @@
 {
-  "name": "be-nc-news",
+  "name": "be-neu-news",
   "version": "1.0.0",
   "description": "bc-nc-news",
   "main": "listen.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/northcoders/be-nc-news.git"
+    "url": "git+https://github.com/RickyCUHK/cs5610_backend"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/northcoders/be-nc-news/issues"
+    "url": "https://github.com/RickyCUHK/cs5610_backend/issues"
   },
-  "homepage": "https://github.com/northcoders/be-nc-news#readme",
+  "homepage": "https://github.com/RickyCUHK/cs5610_backend",
   "devDependencies": {
     "husky": "^8.0.2",
     "jest": "^27.5.1",
